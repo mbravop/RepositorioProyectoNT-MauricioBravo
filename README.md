@@ -255,7 +255,7 @@ def lap_callback(self, msg: String):
         self.last_trigger_time = current_time
 ```
 
-### Video y vuelta más rápida
+## Video y vuelta más rápida
 
 Aquí podrás encontrar el video donde se evidencia el funcionamiento del código.
 
