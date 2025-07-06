@@ -27,13 +27,13 @@ source install/setup.bash
 ros2 launch f1tenth_gym_ros gym_bridge_launch.py
 ```
 
-5. Iniciár el suscriptor para el conteo de vueltas
+5. Iniciar el suscriptor para el conteo de vueltas
 
 ```bash
 ros2 run controllers lap_node
 ```
 
-6. Iniciár el algoritmo principal follow the gap
+6. Iniciar el algoritmo principal follow the gap
 
 ```bash
 ros2 run controllers nodo_proyecto
