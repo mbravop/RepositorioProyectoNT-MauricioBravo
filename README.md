@@ -256,7 +256,7 @@ Aquí podrás encontrar el video donde se evidencia el funcionamiento del códig
 
 Nota: Por motivos de limitaciónes en el procesador, no se ejecutaba correctamente el código al momento de grabar pantalla con la herramienta de Ubuntu, por ese motivo fue grabado desde el celular con la mejor calidad posible 🥲
 
-<a href="https://www.tu-pagina-externa.com](https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing" target="_blank">
   <img src="img/MiniaturaVideo.png" width="500">
 </a>
 
