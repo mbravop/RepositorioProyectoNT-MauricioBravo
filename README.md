@@ -254,6 +254,10 @@ def lap_callback(self, msg: String):
 
 Aquí podrás encontrar el video donde se evidencia el funcionamiento del código.
 
-[(./img/MiniaturaVideo.png)]([https://www.tu-pagina-externa.com](https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing))
+Nota: Por motivos de limitaciónes en el procesador, no se ejecutaba correctamente el código al momento de grabar pantalla con la herramienta de Ubuntu, por ese motivo fue grabado desde el celular con la mejor calidad posible 🥲
 
-Como se puede ver, la velocidad más rápida por vuelta fue de 36.3199s
+<a href="https://www.tu-pagina-externa.com](https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing" target="_blank">
+  <img src="img/MiniaturaVideo.png" width="500">
+</a>
+
+Como se puede ver, no existieron colisones en las 10 vueltas y la velocidad más rápida por vuelta fue de 36.3199s
