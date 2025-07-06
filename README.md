@@ -254,6 +254,6 @@ def lap_callback(self, msg: String):
 
 Aquí podrás encontrar el video donde se evidencia el funcionamiento del código.
 
-[(/img/MiniaturaVideo.png)]([https://www.tu-pagina-externa.com](https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing))
+[(img/MiniaturaVideo.png)]([https://www.tu-pagina-externa.com](https://drive.google.com/file/d/1g_mgdxwOQ0wuOUyOpdmmXXkhU_XW1i-_/view?usp=sharing))
 
 Como se puede ver, la velocidad más rápida por vuelta fue de 36.3199s
