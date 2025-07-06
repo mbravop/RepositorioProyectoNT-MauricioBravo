@@ -7,28 +7,33 @@ Repositorio para el proyecto de vehiculos no tripulados, en este repositorio se 
 
 ```bash
 source /opt/ros/humble/setup.bash
-source install/setup.bash
 ```
 
-2. Levantar simulador RViz
-
-```bash
-ros2 launch f1tenth_gym_ros gym_bridge_launch.py
-```
-
-3. Realizar build del programa
+2. Realizar build del programa
 
 ```bash
 colcon build
 ```
 
-4. Iniciár el suscriptor para el conteo de vueltas
+3. Redefinir source
+
+```bash
+source install/setup.bash
+```
+
+4. Levantar simulador RViz
+
+```bash
+ros2 launch f1tenth_gym_ros gym_bridge_launch.py
+```
+
+5. Iniciár el suscriptor para el conteo de vueltas
 
 ```bash
 ros2 run controllers lap_node
 ```
 
-5. Iniciár el algoritmo principal follow the gap
+6. Iniciár el algoritmo principal follow the gap
 
 ```bash
 ros2 run controllers nodo_proyecto
